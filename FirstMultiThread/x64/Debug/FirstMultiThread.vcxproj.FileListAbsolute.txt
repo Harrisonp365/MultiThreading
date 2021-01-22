@@ -1,0 +1,2 @@
+C:\Dev\MultiThreading\FirstMultiThread\x64\Debug\FirstMultiThread.exe
+C:\Dev\MultiThreading\FirstMultiThread\x64\Debug\FirstMultiThread.pdb
